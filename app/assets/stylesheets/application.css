@@ -11,3 +11,17 @@
  *= require_self
  *= require_tree .
  */
+
+body {
+	padding-top: 50px;
+}
+
+.jcduran-starter {
+	padding: 40px 15px;
+}
+
+html {
+  font-family: sans-serif;
+  -webkit-text-size-adjust: 100%;
+      -ms-text-size-adjust: 100%;
+}
